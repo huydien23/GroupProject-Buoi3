@@ -14,6 +14,10 @@
 
 ### 15/10/2025 - BaoKhang
 - Sửa file group-note.md
+
+### 15/10/2025 - Duy
+- Sửa file group-note.md
+
 ### [Để các thành viên khác thêm]
 
 ## Nhận xét về branch chung:
