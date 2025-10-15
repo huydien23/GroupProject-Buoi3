@@ -12,6 +12,8 @@
 - Tạo file group-note.md
 - Setup cấu trúc cho team cùng edit
 
+### 15/10/2025 - BaoKhang
+- Sửa file group-note.md
 ### [Để các thành viên khác thêm]
 
 ## Nhận xét về branch chung:
@@ -22,5 +24,4 @@
 ## Todo:
 - [ ] Hoàng Duy thêm phần của mình
 - [ ] Bảo Khang thêm phần của mình
-    224126_KHANG_NE
 - [ ] Review và finalize
