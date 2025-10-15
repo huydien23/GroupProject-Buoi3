@@ -1,15 +1,31 @@
-# GroupProject-Buoi3 - PHIÊN BẢN SAI ❌
+# GroupProject-Buoi3 ✅
 
-**LỖI:** Đây là commit sai để test rollback!
+**Dự án thực hành Git/GitHub cho nhóm**
 
-## Thông tin sai:
-- Tên dự án: Project sai tên
-- Thành viên: Tên sai, thông tin sai
-- Mô tả: Hoàn toàn sai
+## Thành viên:
+- **Điền** (Leader) - 2 năm kinh nghiệm Git
+- **Hoàng Duy** - Developer
+- **Bảo Khang** - Developer
 
-## Bug features:
-- Feature không tồn tại
-- Lỗi nghiêm trọng
-- Code không hoạt động
+## Mô tả:
+Repository này được tạo để thực hành các hoạt động làm việc nhóm với Git/GitHub:
+- Quản lý branch và merge
+- Pull Request workflow
+- Tag và versioning
+- Rollback và recovery
+- Collaborative development
 
-**GHI CHÚ:** Commit này sẽ được rollback bằng git reset --soft HEAD~1
+## Hoạt động đã thực hiện:
+1. ❌ LỖI: Xóa hết data quan trọng
+2. ❌ SAIIII: Phá hủy repository  
+3. ❌ SPAM: aaaaaaaaaaaaaaaaa
+4. ❌ CODE LỖI: console.log("hack hack hack")
+COMMIT SAI - CẦN ROLLBACK!!!
+3. ✅ Pull Request và Review  
+4. ✅ Xử lý Conflict
+5. ✅ Tag và Release
+6. ✅ Báo cáo nhóm
+7. ✅ Branch chung (feature-shared)
+8. 🔄 Rollback và phục hồi (đang thực hiện)
+
+**Cập nhật:** Đã rollback commit sai và sửa lại nội dung đúng!
