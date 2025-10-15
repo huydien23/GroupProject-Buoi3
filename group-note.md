@@ -12,7 +12,8 @@
 - Tạo file group-note.md
 - Setup cấu trúc cho team cùng edit
 
-### [Để các thành viên khác thêm]
+### 15/10/2025 - Duy
+- Sửa file group-note.md
 
 ## Nhận xét về branch chung:
 - Cần phối hợp tốt để tránh conflict
@@ -21,7 +22,6 @@
 
 ## Todo:
 - [ ] Hoàng Duy thêm phần của mình
-    Hoàng Duy đã chỉnh sửa ở đây
 - [ ] Bảo Khang thêm phần của mình
     224126_KHANG_NE
 - [ ] Review và finalize
