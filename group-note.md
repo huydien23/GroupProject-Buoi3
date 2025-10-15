@@ -21,5 +21,6 @@
 
 ## Todo:
 - [ ] Hoàng Duy thêm phần của mình
+    Hoàng Duy đã chỉnh sửa ở đây
 - [ ] Bảo Khang thêm phần của mình
 - [ ] Review và finalize
