@@ -1,0 +1,17 @@
+Đây là file shared của Điền - Leader
+==========================================
+
+Thông tin cá nhân:
+- Tên: Điền
+- Vai trò: Nhóm trưởng
+- Nhiệm vụ: Quản lý repository, merge PR, tạo tag
+- Kinh nghiệm Git: 2 năm
+
+Góp ý cho team:
+- Luôn pull trước khi push
+- Viết commit message rõ ràng
+- Review code cẩn thận
+- Communication thường xuyên
+
+Ngày tạo: 15/10/2025
+Branch: feature-shared (branch chung của team)
