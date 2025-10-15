@@ -7,7 +7,13 @@
 - **Hoàng Duy** - Developer
 - **Bảo Khang** - Developer
 
-
+## Mô tả:
+Repository này được tạo để thực hành các hoạt động làm việc nhóm với Git/GitHub:
+- Quản lý branch và merge
+- Pull Request workflow
+- Tag và versioning
+- Rollback và recovery
+- Collaborative development
 
 ## Hoạt động đã thực hiện:
 1. ❌ LỖI: Xóa hết data quan trọng
